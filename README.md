@@ -7,4 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 #DEAR SIR/MAM,
-#Are you looking for a DevOps Engineer with:
+#Are you looking for a DevOps Engineer with:-Rebase
+
+#For Merge
+
